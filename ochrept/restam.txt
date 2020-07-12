@@ -1,0 +1,798 @@
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Ghostabrava, o Turista - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Hazwonbola, o Enfadonho - 0
+Iniolho, o Narcisista - 0
+Jackellinton, o Abóbora - 0
+Jackoalak, o Lunático - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Kitsouie, o Verde - 0
+Kitsuei, o Vermelho - 0
+Koalakarquiteto, o Equilibrado - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Koelogue, o Criador - 0
+Kokonam, o Tagarela - 0
+Krabaoli, o Paciente - 0
+Kwoanium, o Esperto - 0
+Ladinosujo, o Desarrumado - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Leopardon, o Sentido - 0
+Leorio, o Assombrado - 0
+Lorde the Vampiric - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Miliopoldo, o Fracassado - 0
+Misskokoko, o Chanel - 0
+Moops, o Garoto Bolha - 0
+Mufavabemz, o Canibal - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Nidsally, o Selvagem - 0
+Niptuk the Plasticínio - 0
+Oniolho, o Ridículo - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandaltri, o Desconhecido - 0
+Pandartametal, o Atrativo - 0
+Pandarwin, o Naturalista - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Piktoven, o Surdo - 0
+Polterghaisk, a Alma Perdida - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Prikoko, o Estúpido - 0
+Ratalo, o Ativo - 0
+Ratatuli, o Intrigante - 0
+Ratilla, o Huno - 0
+Rib, o Despedaçado - 0
+Romush, o Montecchi - 0
+Ryukualak, o Entediado - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scaramato, o Carrasco - 0
+Snailmetalica, Interiorano - 0
+Sorgyo, o Tagarelox de Corox - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Supergwass, o Livre - 0
+Tanako, o Observador - 0
+TanuKiki, o Fantasma Livre - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Treekalack, o Triste - 0
+Treekness, o Preto - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treekstabalo, o Psíquico - 0
+Treektamak, o Escandaloso - 0
+Trooligan the Bulldogg - 0
+Trumpanor, o Sobrevivente - 0
+Trunkbardo, o Gentil - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Worka, o Determinado - 0
+Wowalker, o Egípcio - 0
+Yokai, o Corista - 0
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Ghostabrava, o Turista - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Hazwonbola, o Enfadonho - 0
+Iniolho, o Narcisista - 0
+Jackellinton, o Abóbora - 0
+Jackoalak, o Lunático - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Kitsouie, o Verde - 0
+Kitsuei, o Vermelho - 0
+Koalakarquiteto, o Equilibrado - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Koelogue, o Criador - 0
+Kokonam, o Tagarela - 0
+Krabaoli, o Paciente - 0
+Kwoanium, o Esperto - 0
+Ladinosujo, o Desarrumado - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Leopardon, o Sentido - 0
+Leorio, o Assombrado - 0
+Lorde the Vampiric - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Miliopoldo, o Fracassado - 0
+Misskokoko, o Chanel - 0
+Moops, o Garoto Bolha - 0
+Mufavabemz, o Canibal - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Nidsally, o Selvagem - 0
+Niptuk the Plasticínio - 0
+Oniolho, o Ridículo - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandaltri, o Desconhecido - 0
+Pandartametal, o Atrativo - 0
+Pandarwin, o Naturalista - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Piktoven, o Surdo - 0
+Polterghaisk, a Alma Perdida - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Prikoko, o Estúpido - 0
+Ratalo, o Ativo - 0
+Ratatuli, o Intrigante - 0
+Ratilla, o Huno - 0
+Rib, o Despedaçado - 0
+Romush, o Montecchi - 0
+Ryukualak, o Entediado - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scaramato, o Carrasco - 0
+Snailmetalica, Interiorano - 0
+Sorgyo, o Tagarelox de Corox - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Supergwass, o Livre - 0
+Tanako, o Observador - 0
+TanuKiki, o Fantasma Livre - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Treekalack, o Triste - 0
+Treekness, o Preto - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treekstabalo, o Psíquico - 0
+Treektamak, o Escandaloso - 0
+Trooligan the Bulldogg - 0
+Trumpanor, o Sobrevivente - 0
+Trunkbardo, o Gentil - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Worka, o Determinado - 0
+Wowalker, o Egípcio - 0
+Yokai, o Corista - 0
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Ghostabrava, o Turista - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Hazwonbola, o Enfadonho - 0
+Iniolho, o Narcisista - 0
+Jackellinton, o Abóbora - 0
+Jackoalak, o Lunático - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Kitsouie, o Verde - 0
+Kitsuei, o Vermelho - 0
+Koalakarquiteto, o Equilibrado - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Koelogue, o Criador - 0
+Kokonam, o Tagarela - 0
+Krabaoli, o Paciente - 0
+Kwoanium, o Esperto - 0
+Ladinosujo, o Desarrumado - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Leopardon, o Sentido - 0
+Leorio, o Assombrado - 0
+Lorde the Vampiric - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Miliopoldo, o Fracassado - 0
+Misskokoko, o Chanel - 0
+Moops, o Garoto Bolha - 0
+Mufavabemz, o Canibal - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Nidsally, o Selvagem - 0
+Niptuk the Plasticínio - 0
+Oniolho, o Ridículo - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandaltri, o Desconhecido - 0
+Pandartametal, o Atrativo - 0
+Pandarwin, o Naturalista - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Piktoven, o Surdo - 0
+Polterghaisk, a Alma Perdida - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Prikoko, o Estúpido - 0
+Ratalo, o Ativo - 0
+Ratatuli, o Intrigante - 0
+Ratilla, o Huno - 0
+Rib, o Despedaçado - 0
+Romush, o Montecchi - 0
+Ryukualak, o Entediado - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scaramato, o Carrasco - 0
+Snailmetalica, Interiorano - 0
+Sorgyo, o Tagarelox de Corox - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Supergwass, o Livre - 0
+Tanako, o Observador - 0
+TanuKiki, o Fantasma Livre - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Treekalack, o Triste - 0
+Treekness, o Preto - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treekstabalo, o Psíquico - 0
+Treektamak, o Escandaloso - 0
+Trooligan the Bulldogg - 0
+Trumpanor, o Sobrevivente - 0
+Trunkbardo, o Gentil - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Worka, o Determinado - 0
+Wowalker, o Egípcio - 0
+Yokai, o Corista - 0
+Aboub, o Generoso - 0
+Aperóbico, o Dinâmico - 0
+Arachnanjo, o esperançoso - 0
+Arachnguerreiro, o ????? - 0
+Aracknekros, o Agressivo - 0
+Arakula, o Capturador - 0
+Areportair, o Espectador - 0
+Bambeto, o Santo - 0
+Bambotinho, o Quieto - 0
+Barbaflor, o Corrompido - 0
+Barbrossim, o Chefe - 0
+Barkricrack, o Instável - 0
+Biblopopo, o Organizado - 0
+Blopal, o Precioso - 0
+Blopium, o Delirante - 0
+Blopulento, o Pretensioso - 0
+Blorchid, o Grandioso - 0
+Boolu, o Besta - 0
+Boombora, o Perigoso - 0
+Branco de Neve, o Puro - 0
+Bulbisônico, o Penetrante - 0
+Bulgigrado, o Dançarino - 0
+Bworak, o Boêmio - 0
+Bworkorder, o Sábio - 0
+Calipzoth, o Gelado - 0
+Camelelux, o Tolerante - 0
+Camiona, o Viajante - 0
+Camufoso, o Desconhecido - 0
+Canarie, o Inconseqüente - 0
+Caniedoss, o Risonho - 0
+Canimanta, o Devorador - 0
+Caniranda, o Maníaco - 0
+Canirlote, o Magrelo - 0
+Caranha, Dragão - 0
+Caranhaco, o Fritador de peixes - 0
+Caranhoso, o Suplicante - 0
+Chafaldraga, o Gracioso - 0
+Chaferanho, o Essencial - 0
+Chafermentado, o Eufórico - 0
+Chaferotix, o Nonagésimo sexto - 0
+Chaferupção, o Vulcânico - 0
+Crabartanio, o Singular - 0
+Crabathos, o Para - 0
+Cracklerod, o Ancião - 0
+Crackoalak, o Loiro - 0
+Crackrodilrock the Helltune - 0
+Croccyx, o Ocioso - 0
+Crokdylann, o Rebelde - 0
+Dandel, o Garoto - 0
+Don Quizothe the Stubborn - 0
+Dragamemnon, o Destroçador - 0
+Dragangora, a Sutil - 0
+Dragaustin, o Poderoso - 0
+Dragcasa, o Cínico - 0
+Dragonetele, o Disfarçado - 0
+Dragoochicote, o Extasiado - 0
+Dragorio, o Robusto - 0
+Dragorsso, o Selvagem - 0
+Dragoskovit, o Descalço - 0
+Dragospel, o Rubro - 0
+Dragossipo, o resmungão - 0
+Dragostino, o Minúsculo - 0
+Dragotitis, o Penoso - 0
+Dragovsky, o ChamadoDeCisne - 0
+Drakokidoki, o Voluntário - 0
+Dregatão, o Latino - 0
+Dregercheen, o musicista - 0
+Dregog, o Neozolandês - 0
+Dregomon, o Mastigador - 0
+Dregoniz, o Ousado - 0
+Dregonzola, o queijoso - 0
+Dregquântico, o Treinador - 0
+Edcogumunch, o Berrador - 0
+Escorbisão, o Solitário - 0
+Eskoko, o Nobre - 0
+Ezothbeitor, o Vizinho - 0
+Floratio, o Investigador - 0
+Follikoko, o Alcolchoado - 0
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Ganon, o Pigmeu - 0
+Ginsync, o Hiperativo - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Greedodoff, o Cavalheiro - 0
+Hazwonbola, o Enfadonho - 0
+Iniolho, o Narcisista - 0
+Jackellinton, o Abóbora - 0
+Jackoalak, o Lunático - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Kirevampiro, o Rival - 0
+Kitsewei, o Azul - 0
+Kitsouie, o Verde - 0
+Kitsuei, o Vermelho - 0
+Koalakarquiteto, o Equilibrado - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Koali, o Ocioso - 0
+Koalsen, o Parecido - 0
+Kokonam, o Tagarela - 0
+Koleraspotin, o Insensível - 0
+Krabaoli, o Paciente - 0
+Kwoanium, o Esperto - 0
+Ladinosujo, o Desarrumado - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Leopardon, o Sentido - 0
+Leorio, o Assombrado - 0
+Lorde the Vampiric - 0
+Lupisnóquio, o Lobo Amadeirado - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Miliopoldo, o Fracassado - 0
+Milivanilli, o Mímico - 0
+Miomaho, o Siciliano - 0
+Misskokoko, o Chanel - 0
+MoMaho, o Modernista - 0
+Mopés, o Redodndo - 0
+Mufavabemz, o Canibal - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Nidsally, o Selvagem - 0
+Niptuk the Plasticínio - 0
+Oniolho, o Ridículo - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Palmofolha, o Gorduroso - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandaltri, o Desconhecido - 0
+Pandartametal, o Atrativo - 0
+Pandarwin, o Naturalista - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Pighatchoo, o Elétrico - 0
+Piktoven, o Surdo - 0
+Piralhaka, o Intimidador - 0
+Piwicker, o Macho - 0
+Piwigem, o Chefe - 0
+Piwiki, o Genial - 0
+Piwiliam, o Valente - 0
+Polterghaisk, a Alma Perdida - 0
+Porcaladino, o Imundo - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Presruela, o Lutador - 0
+Prikoko, o Estúpido - 0
+Quetnin, o Fictício - 0
+Ratalo, o Ativo - 0
+Ratatuli, o Intrigante - 0
+Ratilla, o Huno - 0
+Rib, o Despedaçado - 0
+Rolls de Royce - 0
+Romush, o Montecchi - 0
+Ryukualak, o Entediado - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scarafolhoso, o Destruidor - 0
+Scaramato, o Carrasco - 0
+Serpico, o Honesto - 0
+Snailmetalica, Interiorano - 0
+Sorgyo, o Tagarelox de Corox - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Supergwass, o Livre - 0
+Suzessmano, o Entusiasmado - 0
+Tanako, o Observador - 0
+Tanukhiraru, o Talentoso - 0
+TanuKiki, o Fantasma Livre - 0
+Tanuktonico, o Tantan - 0
+Tiwana, o Sinal - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Tofulsom, o Carcereiro - 0
+Treekalack, o Triste - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treekstabalo, o Psíquico - 0
+Treektamak, o Escandaloso - 0
+Trumpanor, o Sobrevivente - 0
+Trunkbardo, o Gentil - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Worka, o Determinado - 0
+Wowalker, o Egípcio - 0
+Yokai, o Corista - 0
+Zigzoth, o Indeciso - 0
+Zouzoth, o Carinhoso - 0
+Aboub, o Generoso - 0
+Aperóbico, o Dinâmico - 0
+Arachnanjo, o esperançoso - 0
+Arachnguerreiro, o ????? - 0
+Aracknekros, o Agressivo - 0
+Arakula, o Capturador - 0
+Areportair, o Espectador - 0
+Bambeto, o Santo - 0
+Bambotinho, o Quieto - 0
+Barbaflor, o Corrompido - 0
+Barbrossim, o Chefe - 0
+Barkricrack, o Instável - 0
+Biblopopo, o Organizado - 0
+Blopal, o Precioso - 0
+Blopium, o Delirante - 0
+Blopulento, o Pretensioso - 0
+Blorchid, o Grandioso - 0
+Boolu, o Besta - 0
+Boombora, o Perigoso - 0
+Branco de Neve, o Puro - 0
+Bulbisônico, o Penetrante - 0
+Bulgigrado, o Dançarino - 0
+Bworak, o Boêmio - 0
+Bworkorder, o Sábio - 0
+Calipzoth, o Gelado - 0
+Camelelux, o Tolerante - 0
+Camiona, o Viajante - 0
+Camufoso, o Desconhecido - 0
+Canarie, o Inconseqüente - 0
+Caniedoss, o Risonho - 0
+Canimanta, o Devorador - 0
+Caniranda, o Maníaco - 0
+Canirlote, o Magrelo - 0
+Caranha, Dragão - 0
+Caranhaco, o Fritador de peixes - 0
+Caranhoso, o Suplicante - 0
+Chafaldraga, o Gracioso - 0
+Chaferanho, o Essencial - 0
+Chafermentado, o Eufórico - 0
+Chaferotix, o Nonagésimo sexto - 0
+Chaferupção, o Vulcânico - 0
+Crabartanio, o Singular - 0
+Crabathos, o Para - 0
+Cracklerod, o Ancião - 0
+Crackoalak, o Loiro - 0
+Crackrodilrock the Helltune - 0
+Croccyx, o Ocioso - 0
+Crokdylann, o Rebelde - 0
+Dandel, o Garoto - 0
+Don Quizothe the Stubborn - 0
+Dragamemnon, o Destroçador - 0
+Dragangora, a Sutil - 0
+Dragaustin, o Poderoso - 0
+Dragcasa, o Cínico - 0
+Dragonetele, o Disfarçado - 0
+Dragoochicote, o Extasiado - 0
+Dragorio, o Robusto - 0
+Dragorsso, o Selvagem - 0
+Dragoskovit, o Descalço - 0
+Dragospel, o Rubro - 0
+Dragossipo, o resmungão - 0
+Dragostino, o Minúsculo - 0
+Dragotitis, o Penoso - 0
+Dragovsky, o ChamadoDeCisne - 0
+Drakokidoki, o Voluntário - 0
+Dregatão, o Latino - 0
+Dregercheen, o musicista - 0
+Dregog, o Neozolandês - 0
+Dregomon, o Mastigador - 0
+Dregoniz, o Ousado - 0
+Dregonzola, o queijoso - 0
+Dregquântico, o Treinador - 0
+Edcogumunch, o Berrador - 0
+Escorbisão, o Solitário - 0
+Eskoko, o Nobre - 0
+Ezothbeitor, o Vizinho - 0
+Floratio, o Investigador - 0
+Follikoko, o Alcolchoado - 0
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Ganon, o Pigmeu - 0
+Ginsync, o Hiperativo - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Greedodoff, o Cavalheiro - 0
+Hazwonbola, o Enfadonho - 0
+Iniolho, o Narcisista - 0
+Jackellinton, o Abóbora - 0
+Jackoalak, o Lunático - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Kirevampiro, o Rival - 0
+Kitsewei, o Azul - 0
+Kitsouie, o Verde - 0
+Kitsuei, o Vermelho - 0
+Koalakarquiteto, o Equilibrado - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Koali, o Ocioso - 0
+Koalsen, o Parecido - 0
+Kokonam, o Tagarela - 0
+Koleraspotin, o Insensível - 0
+Krabaoli, o Paciente - 0
+Kwoanium, o Esperto - 0
+Ladinosujo, o Desarrumado - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Leopardon, o Sentido - 0
+Leorio, o Assombrado - 0
+Lorde the Vampiric - 0
+Lupisnóquio, o Lobo Amadeirado - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Miliopoldo, o Fracassado - 0
+Milivanilli, o Mímico - 0
+Miomaho, o Siciliano - 0
+Misskokoko, o Chanel - 0
+MoMaho, o Modernista - 0
+Mopés, o Redodndo - 0
+Mufavabemz, o Canibal - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Nidsally, o Selvagem - 0
+Niptuk the Plasticínio - 0
+Oniolho, o Ridículo - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Palmofolha, o Gorduroso - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandaltri, o Desconhecido - 0
+Pandartametal, o Atrativo - 0
+Pandarwin, o Naturalista - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Pighatchoo, o Elétrico - 0
+Piktoven, o Surdo - 0
+Piralhaka, o Intimidador - 0
+Piwicker, o Macho - 0
+Piwigem, o Chefe - 0
+Piwiki, o Genial - 0
+Piwiliam, o Valente - 0
+Polterghaisk, a Alma Perdida - 0
+Porcaladino, o Imundo - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Presruela, o Lutador - 0
+Prikoko, o Estúpido - 0
+Quetnin, o Fictício - 0
+Ratalo, o Ativo - 0
+Ratatuli, o Intrigante - 0
+Ratilla, o Huno - 0
+Rib, o Despedaçado - 0
+Rolls de Royce - 0
+Romush, o Montecchi - 0
+Ryukualak, o Entediado - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scarafolhoso, o Destruidor - 0
+Scaramato, o Carrasco - 0
+Serpico, o Honesto - 0
+Snailmetalica, Interiorano - 0
+Sorgyo, o Tagarelox de Corox - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Supergwass, o Livre - 0
+Suzessmano, o Entusiasmado - 0
+Tanako, o Observador - 0
+Tanukhiraru, o Talentoso - 0
+TanuKiki, o Fantasma Livre - 0
+Tanuktonico, o Tantan - 0
+Tiwana, o Sinal - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Tofulsom, o Carcereiro - 0
+Treekalack, o Triste - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treekstabalo, o Psíquico - 0
+Treektamak, o Escandaloso - 0
+Trumpanor, o Sobrevivente - 0
+Trunkbardo, o Gentil - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Worka, o Determinado - 0
+Wowalker, o Egípcio - 0
+Yokai, o Corista - 0
+Zigzoth, o Indeciso - 0
+Zouzoth, o Carinhoso - 0
+Aboub, o Generoso - 0
+Aperóbico, o Dinâmico - 0
+Arachnanjo, o esperançoso - 0
+Arachnguerreiro, o ????? - 0
+Aracknekros, o Agressivo - 0
+Areportair, o Espectador - 0
+Bambeto, o Santo - 0
+Bambotinho, o Quieto - 0
+Bibloponey, o Anfitrião - 0
+Blopal, o Precioso - 0
+Blopium, o Delirante - 0
+Blopulento, o Pretensioso - 0
+Blorchid, o Grandioso - 0
+Boolu, o Besta - 0
+Boombora, o Perigoso - 0
+Branco de Neve, o Puro - 0
+Bulbisônico, o Penetrante - 0
+Bulgigrado, o Dançarino - 0
+Bworkorder, o Sábio - 0
+Camelelux, o Tolerante - 0
+Canarie, o Inconseqüente - 0
+Caniedoss, o Risonho - 0
+Canimanta, o Devorador - 0
+Caniranda, o Maníaco - 0
+Canirlote, o Magrelo - 0
+Caranha, Dragão - 0
+Caranhaco, o Fritador de peixes - 0
+Caranhoso, o Suplicante - 0
+Chafaldraga, o Gracioso - 0
+Chaferanho, o Essencial - 0
+Chafermentado, o Eufórico - 0
+Chaferotix, o Nonagésimo sexto - 0
+Chaferupção, o Vulcânico - 0
+Crabartanio, o Singular - 0
+Crabathos, o Para - 0
+Cracklerod, o Ancião - 0
+Crackoalak, o Loiro - 0
+Crackrodilrock the Helltune - 0
+Croccyx, o Ocioso - 0
+Don Quizothe the Stubborn - 0
+Dragonetele, o Disfarçado - 0
+Dragoochicote, o Extasiado - 0
+Dragossipo, o resmungão - 0
+Dragotitis, o Penoso - 0
+Dragovsky, o ChamadoDeCisne - 0
+Drakokidoki, o Voluntário - 0
+Dregatão, o Latino - 0
+Dregercheen, o musicista - 0
+Dregog, o Neozolandês - 0
+Dregoliz, o Macho - 0
+Dregomon, o Mastigador - 0
+Dregonzola, o queijoso - 0
+Edcogumunch, o Berrador - 0
+Escorbisão, o Solitário - 0
+Follikoko, o Alcolchoado - 0
+Frengassa, o Bonitão - 0
+Fung Ku, o Mestre - 0
+Goblimpo, o Kid Biscoito - 0
+Grabbito, o Corredor - 0
+Gransnakizanami, o Soberano - 0
+Hazwonbola, o Enfadonho - 0
+Jackellinton, o Abóbora - 0
+Jelleno, o Desafortunado - 0
+Jellvis, o Rei - 0
+Kidodo, o Extinto - 0
+Kilua, o Infiltrador - 0
+Koalakropolis, o Rei das Colinas - 0
+Koald, o Brilhante - 0
+Kokonam, o Tagarela - 0
+Kwoanium, o Esperto - 0
+Larvalaska, o Frio - 0
+Larvalencia, o Laranja - 0
+Lorde the Vampiric - 0
+MamãeKalak, a Bibliomaníaca - 0
+McWhabbit, o Inflexível - 0
+Mushdrill, o Furador - 0
+Mushulieta the Catapuleta - 0
+Nabucodonozor, o Consquistador - 0
+Niptuk the Plasticínio - 0
+Ouassingiam, o Déspota - 0
+Ouassingue, o Perdido - 0
+Ouassup, o Irritante - 0
+Palmei, o Herbívoro - 0
+Palmela, o Robusto - 0
+Palmipiloto, o Bem-sucedido - 0
+Pandora, o Explorador - 0
+Pandali, o Surreal - 0
+Pandartametal, o Atrativo - 0
+Pandoraclo, o Lado Obscuro da Força - 0
+Pandumonium, o Cômico - 0
+Porcostola, o Insinuante - 0
+Porcotaça, útil - 0
+Ratalo, o Ativo - 0
+Ratilla, o Huno - 0
+Romush, o Montecchi - 0
+Satonuki, o Plastificado - 0
+Scaraflorido, o Contador de Lorotas - 0
+Scarafolhado, o Beliscador - 0
+Scaramato, o Carrasco - 0
+Serpico, o Honesto - 0
+Snailmetalica, Interiorano - 0
+Sparodi, o Peçonhento - 0
+Spicogukitaro, o Leal - 0
+Stewart, o Animal Pescador - 0
+Tofudo, o Caçador - 0
+Tofulo, the Otimista - 0
+Treekalack, o Triste - 0
+Treekniddioo, o Indigente - 0
+Treeknidylus - 0
+Treekonk, o Abalado - 0
+Treektamak, o Escandaloso - 0
+Trooligan the Bulldogg - 0
+Trumpanor, o Sobrevivente - 0
+Wabbin, o Rico - 0
+Warazpacho, the Cherrilla - 0
+Wowalker, o Egípcio - 0

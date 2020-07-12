@@ -1,0 +1,10 @@
+a = open('lista2.txt','r').read()
+b = open('newlist.txt','r').read()
+c = open('nooova.txt','a')
+l1=a.split('\n')
+l2=b.split('\n')
+for i in range(286):
+ new=(l2[i][:len(l2[i])-1])
+ new+=str(int(l2[i][len(l2[i])-1])+int(l1[i]))
+ c.write(new+'\n')
+c.close()

@@ -1,0 +1,299 @@
+Grey Mouse - 1
+Moskito - 2
+Arachnee - 5
+White Gobbly - 3
+Black Gobbly - 2
+Evil Tofu - 6
+Sick Arachnee - 0
+Blue Piwi - 3
+Red Piwi - 1
+Yellow Piwi - 2
+Green Piwi - 4
+Purple Piwi - 4
+Air Spark - 1
+Water Spark - 1
+Fire Spark - 1
+Earth Spark - 1
+Blue Larva - 0
+Crab - 6
+Pink Piwi - 3
+Tofu - 11
+Sick Tofu - 2
+Mush Mush - 1
+Evil Dandelion - 0
+Sewer Arachnee - 1
+One-armed Bandit - 3
+Demonic Rose - 1
+Blue Jelly - 4
+Kwoan - 5
+Green Larva - 1
+Gobball - 5
+Kolerat - 1
+Mint Jelly - 2
+Orange Larva - 2
+Dark Baker - 3
+Black Tiwabbit - 1
+Tiwabbit - 3
+Tiwabbit Wosungwee - 2
+Wild Sunflower - 1
+Rogue Clan Bandit - 2
+Goblin - 0
+Kokonut - 5
+Tikokoko - 2
+Glukoko - 3
+Boar - 3
+Green Spimush - 2
+Pumpkwin - 0
+Vampire - 2
+Coco Biblop - 2
+Morello Cherry Biblop - 0
+Indigo Biblop - 1
+Pippin Biblop - 3
+Karne Rider - 1
+Strubian Milirat - 2
+Mushd - 3
+Prespic - 2
+Piglet - 2
+Yellow Turtle - 2
+Wabbit - 9
+Gobball War Chief - 3
+Lousy Pig Shepherd - 2
+Whitish Fang - 1
+Bulbamboo - 3
+Blue Turtle - 4
+Crobak - 3
+Starfish Trooper - 1
+White Snapper - 2
+Blue Snapper - 1
+Brown Snapper - 2
+Green Snapper - 0
+Bambooto - 4
+Red Turtle - 2
+Vampire Master - 1
+Minoskito - 3
+Neye - 2
+Miliboowolf - 0
+Ambusher - 1
+Bulbiflor - 2
+Green Turtle - 2
+Bwork Magus - 5
+Furious Whitish Fang - 0
+Dark Rose - 0
+Black Wabbit - 3
+Dark Miner - 3
+Bwork Archer - 5
+Blue Spimush - 4
+Brown Spimush - 2
+Red Spimush - 2
+Crackrock - 4
+Manderisha - 1
+Kitsou Nakwa - 2
+Gargoyl - 1
+Wild Almond Dragoturkey - 1
+Strawberry Jelly - 3
+Skeleton Wabbit - 1
+Invisible Chafer - 5
+Crackler - 5
+Bwork - 7
+Treechnid - 7
+Khamelerost - 2
+White Scaraleaf - 2
+Blue Scaraleaf - 2
+Red Scaraleaf - 3
+Green Scaraleaf - 2
+Rib - 3
+Coco Blop - 3
+Morello Cherry Blop - 3
+Indigo Blop - 2
+Pippin Blop - 2
+Farle's Pig - 2
+Scaratos - 1
+Boomba - 0
+Trunknid - 2
+Chafer Foot Soldier - 0
+Kloon Snapper - 1
+Treechnee - 0
+Chafer - 11
+Crocodyl - 1
+Strubian Sickrat - 0
+Scurvion - 1
+Wild Ginger Dragoturkey - 2
+Dark Smith - 4
+Kurasso Craboral - 1
+Mahlibuh Craboral - 1
+Mojeeto Craboral - 1
+Passaoh Craboral - 1
+Bulbush - 3
+Major Arachnee - 0
+Araknawa - 3
+Gwandpa Wabbit - 1
+Wo Wabbit - 3
+Lousy Pig Knight - 2
+Aboub - 1
+Amlub - 2
+Codem - 5
+Gink - 3
+Kirevam - 3
+Let Emoliug - 3
+Nebgib - 0
+Nipul - 2
+Osurc - 3
+Susej - 2
+Kokoko - 4
+Chafer Archer - 3
+Chafer Lancer - 2
+Dok Alako - 3
+Immature Koalak - 3
+Minokid - 1
+Grossewer Shaman - 0
+Boggedown Ouassingue - 2
+Ouassingal - 0
+Ouassingue - 3
+Mahlibuh Palmflower - 2
+Mojeeto Palmflower - 2
+Passaoh Palmflower - 1
+Plain Boar - 1
+Venerable Treechnid - 2
+Plain Crackler - 2
+Pandit - 1
+Elite Chafer - 0
+Fungi Master - 2
+Polished Crackrock - 1
+Pandikaze - 5
+Kanniballbo - 0
+Kanniball Jav - 3
+Kanniball Sarbak - 2
+Kanniball Thierry - 1
+Drunken Pandalette - 2
+Grossewer Rat - 3
+Kurasso Palmflower - 1
+Ouginak - 0
+Wind Kwak - 1
+Earth Kwak - 1
+Fire Kwak - 1
+Ice Kwak - 1
+Dragmatic - 1
+Vetauran - 0
+Shape-Shifting Dragoss - 0
+Dragnnoyed - 0
+Leopardo - 3
+Quetsnakiatl - 4
+Coralator - 3
+Kitsou Nae - 4
+Raul Mops - 2
+Drunken Pandawa - 2
+Grass Snake - 4
+Mumussel - 0
+Cannon Dorf - 1
+Hazwonarm - 1
+Blodz Uker - 1
+White Dreggon - 1
+Golden Dreggon - 1
+Black Dreggon - 1
+Sapphire Dreggon - 1
+Coco Koalak - 2
+Morello Cherry Koalak - 0
+Indigo Koalak - 1
+Pippin Koalak - 1
+Hyoactive Rat - 1
+Sparo - 3
+Warguerite - 1
+Apero Ghost - 3
+Burning Ghost - 0
+Ghost Hicidal - 0
+Brave Ghost - 0
+Dorgan Ation - 2
+Barbrossa - 2
+Ze Flib - 1
+Gwass - 1
+Crocodyl Chief - 0
+Plissken - 1
+Kaniger - 1
+Plain Pikoko - 5
+Polished Crackler - 1
+Mufafah - 1
+Boowolf - 1
+Pandulum - 4
+Kido - 3
+Kilibriss - 4
+Plains Larva - 0
+Beaztinga - 1
+Foxfyter - 0
+Alabaster Dreggon - 0
+Dragostess - 5
+Koalak Warrior - 1
+Poacher - 0
+Oni - 9
+Brown Warko - 1
+Kitsou Nere - 4
+Dark Treechnid - 5
+Bulbig - 3
+Koalak Gravedigger - 1
+Koalak Forester - 1
+Piralak - 0
+Fisheralak - 1
+Greedovore - 0
+Dark Treechnee - 0
+Wild Golden Dragoturkey - 0
+Koalak Rider - 0
+Moopet - 2
+Holy Bambooto - 1
+Dreggon Warrior - 0
+Flying Dreggon - 0
+Weirbwork - 0
+Burnabwork - 0
+Mabwork - 0
+Megabwork - 0
+Zoth Disciple - 2
+Rotaflor - 2
+Bloody Koalak - 2
+Dark Pikoko - 1
+Floramor - 0
+Barkritter - 1
+Wild Koalak - 3
+Mama Koalak - 2
+Koalak Mummy - 2
+Miremop - 3
+Purple Warko - 2
+Zoth Girl - 0
+Zoth Warrior - 1
+Mopeat - 1
+Dark Treeckler - 1
+Alert White Dragoss - 0
+Alert Golden Dragoss - 0
+Alert Black Dragoss - 0
+Alert Sapphire Dragoss - 0
+Soryo Firefoux - 3
+Kitsou Nufeu - 1
+Maho Firefoux - 4
+Drakoalak - 0
+Reapalak - 0
+Koalak Master - 1
+Cheeken - 1
+Equipped Chest - 0
+Robo Mace - 0
+Pushy Robot - 0
+Robionicle - 0
+Trool - 1
+Zoth Sergeant - 0
+Snailmet - 3
+Air Pikoko - 5
+Light Treeckler - 1
+Zoth Master - 1
+Mushnid - 1
+Yokai Firefoux - 2
+Trumperelle - 2
+Mushmunch - 1
+Leopardo Ghost - 1
+Pandikaze Ghost - 1
+Mush Tup - 0
+Mush Rhume - 3
+Mush Mish - 1
+Pandulum Ghost - 3
+Soryo Firefoux Ghost - 2
+Pandora - 3
+Mopy King - 0
+Maho Firefoux Ghost - 3
+Yokai Firefoux Ghost - 1
+Pandora Ghost - 0
+Tanukouï San Ghost - 0
