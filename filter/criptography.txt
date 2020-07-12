@@ -1,0 +1,4 @@
+each pixel = 3 characters;
+img size = 1080 x 1920
+1080*1920*3 characters =
+16x9xsize^2x3

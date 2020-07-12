@@ -1,0 +1,81 @@
+ptbr
+14/20 -> 8
+1Co
+2Cx
+3Co
+4Co
+5Eo
+6Co
+7Cx
+8Eo
+9Co
+10Co
+11Eo
+12Co
+13Ex
+14Cx
+15Eo
+16Cx
+17Eo
+18Ex
+19Co
+20Eo
+
+math
+8/8 -> 8
+21Eo
+22Eo
+23Co
+24Eo
+25C[3,2,1,1]o
+26C[3,2,1,1]o
+27Eo 350+150*e^-10. loge^-10=-10loge=-4,4=10^-4,4 ;d
+28Co 150/2.71>150/3=50 ;P
+
+computação
+4/6 -> 2
+29Cx [achoq]
+30Co [não necessariamente mas]
+31Co [esperoq]
+32Co [achoq]
+33Co [achoq]
+34Ex
+
+physics
+5/6 -> 4
+720km/h = 200m/s ou seja 1/4sec
+s=at^2/2
+35Eo ;D
+36Co s=4,9*1/16>1/10 safe ^^
+37Co mgh ^^ 0,015kg*9,8*1,5=0,0225*9,8>0,1
+38Eo a=v^2/R a=225/50=4,5 /?
+39Ex
+40Co /elástico
+
+ethics
+4/4 -> 4
+41Eo
+42Eo
+43Co /n sei
+44Co
+
+geografia
+4/4 -> 4
+45Co
+46Eo
+47Eo
+48Co
+
+historia da prf
+2/2 -> 2
+49Eo
+50Co
+
+direito admnistrativo
+5/6 -> 4
+91Co
+92Co
+93Eo
+94Cx
+95Eo
+96Eo

@@ -1,0 +1,68 @@
+Finalmente, segundo Alexandre de Moraes, a brasileira de 1988 seria exemplo de Constituição super-rígida[...], contudo, não parece ser a posição adotada pelo STF
+
+
+pt
+v. exa para presidente não pode abreviar
+excelentissimo chefes de poder[vocativo]
+
+envelope:
+a sua excelência o senhor
+[[nome]][cargo] nome
+[[cargo]][lugar] cargo
+[[endereço]]
+CEP
+ao senhor
+nome
+endereço
+fecho id[exceto presidente]; fecho, nome cargo
+
+4. Decreto. 
+( ) Ato administrativo da competência dos chefes do Executivo (presidente da República, governadores, prefeito), utilizado para determinar o cumprimento de uma resolução.
+3. Despacho. 
+( ) Decisão ou nota de autoridade pública em petições, requerimentos, etc., deferindo ou indeferindo caso submetido à sua apreciação.
+1. Declaração. 
+( ) Documento que pode ser utilizado por qualquer pessoa, física ou jurídica, pública ou privada, para afirmar a existência ou inexistência de fatos, o conhecimento ou desconhecimento de algo.
+5. Atestado. 
+( ) Documento pelo qual se afirma a veracidade de um fato ou a existência de uma obrigação. É emitido por pessoa que exerce cargo ou função e que, com sua autoridade, se responsabiliza pelo que está afirmando.
+2. Certidão. 
+( ) Documento fornecido por autoridade competente a partir de solicitação ou requisição formal do interessado. Destina-se a comprovar a existência ou inexistência de fatos, dados ou atos que se encontram registrados ou arquivados em poder do expedidor. 
+
+
+dc
+;mutação -> interpretação
+;reforma -> física
+;jean domat -> dir púb e priv
+F normat. da Const. Konrad Hesse [hierarq]
+totalismo constitucional - lammego bulos
+neoconstitucionalismo aspecto axiológico; pós-positivismo
+
+Lassale sociológico poder
+;Schmitt político parte materialmente constitucional
+hans kelsen jurídico mundo das ideias
+>lógico juridico hipotetico
+>juridico positivo
+
+métodos:
+jurídico ou hermenéutico pt/hist/etc
+tópico-problemático procura problema adequa à regra
+concretizador adequa a regra ao problema
+cientifico-espiritual realidade social
+normativo-estruturante atividade do judiciário
+
+Unidade da Constituição
+A interpretação constitucional deve ser realizada de maneira a evitar contradições entre suas normas.
+Justeza ou Conformidade Funcional
+Os órgãos encarregados da interpretação da norma constitucional não poderão chegar a uma posição que subverta, altere ou perturbe o esquema organizatório-funcional estabelecido pelo legislador constituinte originário.
+Concordância Prática ou Harmonização
+Os bens jurídicos em conflito deverão estar coordenados e combinados de forma a evitar o sacrifício total de um (uns) em relação a outro(s).
+Força Normativa da Constituição
+Entre as interpretações possíveis, deve ser adotada aquela que garanta maior eficácia, aplicabilidade e permanência das normas constitucionais.
+Máxima Efetividade ou Eficiência
+A uma norma constitucional deve ser atribuído o sentido que maior eficácia se lhe conceda.
+Efeito Integrador
+Na resolução dos problemas jurídico-constitucionais, deverá ser dada maior primazia aos critérios favorecedores da integração política e social, bem como ao reforço da unidade política.
+
+[empenhado = comprometido p/ obra
+liquidado = finalizado
+pago]
+restos a pagar = ano seguinte
